@@ -1,0 +1,1 @@
+flask --app web run -p 8080 --debug
